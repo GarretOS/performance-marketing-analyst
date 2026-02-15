@@ -25,7 +25,7 @@ author: Garret Sumagang
 navbar-links:
   About: "aboutme"
   Projects: "projects"
-  Resume: "https://drive.google.com/file/d/1jj9zpt6AX482cPXMUX0dKd16TbYjWNDm/view?usp=sharing"
+  Resume: "/assets/resume.pdf"
   Contact: "contact"
 
 
