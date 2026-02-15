@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Performance Marketing Analyst | Amazon & Walmart Specialist
 ---
-My name is Inigo Montoya. I have the following qualities:
+I'm a performance marketing analyst specializing in Amazon and Walmart marketplace advertising. I turn complex ad data into actionable insights that drive revenue growth and optimize ROAS.
 
-* I rock a great mustache
-* I’m extremely loyal to my family
+### What I Do
+- **Amazon & Walmart Advertising**: Campaign optimization, bid management, keyword research
+- **Data Analytics**: SQL, Python, Excel for deep-dive performance analysis
+- **Visualization**: Tableau/Power BI dashboards for stakeholder reporting
+- **A/B Testing**: Experimental design for ad creative and targeting optimization
 
-What else do you need?
+### Skills & Tools
+**Analytics**: Python (pandas, numpy), SQL, Excel
+**Visualization**: Tableau, Power BI, Google Data Studio
+**Platforms**: Amazon Advertising Console, Walmart Connect, Google Analytics
+**Marketing**: PPC, SEO, conversion optimization
 
-### My story
-
-To be honest, I’m having some trouble remembering right now, so why don’t you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Download My Resume](https://drive.google.com/file/d/YOUR_LINK)
