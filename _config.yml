@@ -23,8 +23,8 @@ author: Garret Sumagang
 ###############################################
 
 navbar-links:
-  About: "aboutme"
   Projects: "projects"
+  About: "aboutme"
   Resume: "/assets/garret-sumagang-resume.pdf"
   Contact: "contact"
 
