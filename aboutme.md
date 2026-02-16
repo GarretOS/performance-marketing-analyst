@@ -74,4 +74,4 @@ When I'm not analyzing campaign data or building optimization tools, you'll find
 
 Interested in discussing marketplace advertising strategies, data analytics, or potential opportunities?
 
-[Download My Resume](/assets/resume/Garret_Sumagang_Resume.pdf) | [View My Projects](/projects) | [Contact Me](/contact)
+[Download My Resume](/assets/garret-sumagang-resume.pdf) | [View My Projects](/projects) | [Contact Me](/contact)
