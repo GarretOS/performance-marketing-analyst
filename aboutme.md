@@ -4,7 +4,7 @@ title: About Me
 subtitle: Performance Marketing Analyst | Amazon & Walmart Advertising Specialist
 ---
 
-Hi, I'm **Garret Sumagang** — a performance marketing analyst who helps eCommerce sellers turn advertising data into profitable growth.
+Hi, I'm **Garret Sumagang**, a performance marketing analyst who helps eCommerce sellers turn advertising data into profitable growth.
 
 I specialize in **Amazon and Walmart marketplace advertising**, using data-driven strategies to help brands increase revenue, reduce wasted ad spend, and achieve sustainable profitability in competitive markets.
 
@@ -58,7 +58,7 @@ Over the past 4+ years, I've helped eCommerce sellers generate **$5M+ in additio
 
 ### My Approach
 
-I believe great marketing combines **art and science** — creative strategy backed by rigorous data analysis. 
+I believe great marketing combines **art and science**: creative strategy backed by rigorous data analysis. 
 
 Whether it's identifying untapped keyword opportunities, optimizing bid strategies, or building automated dashboards for real-time insights, I focus on what actually moves the needle: **profitable, sustainable growth**.
 
