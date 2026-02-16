@@ -1,0 +1,32 @@
+/* Projects page styling */
+.post-preview {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+}
+
+.post-image {
+  margin: 1rem 0;
+}
+
+.post-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.blog-tags {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+}
+
+.blog-tags a {
+  background-color: #eee;
+  padding: 3px 8px;
+  border-radius: 3px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.blog-tags a:hover {
+  background-color: #ddd;
+}
