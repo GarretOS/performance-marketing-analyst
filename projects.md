@@ -14,10 +14,10 @@ subtitle: My portfolio of data analytics and marketing projects
   </a>
   
   <p class="post-meta">
-    Posted on {{ post.date | date: "%B %-d, %Y" }}
     {% if post.author %}
-    by <strong>{{ post.author }}</strong>
+    By <strong>{{ post.author }}</strong><br>
     {% endif %}
+    Posted on {{ post.date | date: "%B %-d, %Y" }}
   </p>
   
   {% if post.tags.size > 0 %}
