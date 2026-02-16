@@ -9,16 +9,16 @@ I'm always interested in connecting with fellow marketing analysts, discussing o
 ### Get In Touch
 
 <div style="margin: 2rem 0;">
-  <a href="mailto:nosumagang@up.edu.ph" style="display: inline-block; padding: 12px 24px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">
-    📧 Email Me
+  <a href="https://calendly.com/garret-sumagang" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #006bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; margin-bottom: 10px;">
+    📅 Schedule a Discovery Call
   </a>
   
-  <a href="https://www.linkedin.com/in/garret-sumagang" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;">
+  <a href="https://www.linkedin.com/in/garret-sumagang" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; margin-bottom: 10px;">
     💼 Connect on LinkedIn
   </a>
-
-    <a href="https://calendly.com/your-calendly-link" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #006bff; color: white; text-decoration: none; border-radius: 5px; margin-bottom: 10px;">
-    📅 Schedule a Discovery Call
+  
+  <a href="mailto:nosumagang@up.edu.ph" style="display: inline-block; padding: 12px 24px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; margin-bottom: 10px;">
+    📧 Email Me
   </a>
 </div>
 
