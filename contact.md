@@ -13,7 +13,7 @@ I'm always interested in connecting with fellow marketing analysts, discussing o
     📧 Email Me
   </a>
   
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;">
+  <a href="https://www.linkedin.com/in/garret-sumagang" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;">
     💼 Connect on LinkedIn
   </a>
 </div>
