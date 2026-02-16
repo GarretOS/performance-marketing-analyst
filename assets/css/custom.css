@@ -30,3 +30,7 @@
 .blog-tags a:hover {
   background-color: #ddd;
 }
+
+.post-meta strong {
+  font-weight: bold;
+}
