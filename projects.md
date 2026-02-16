@@ -44,5 +44,4 @@ subtitle: My portfolio of data analytics and marketing projects
   <a href="{{ post.url | relative_url }}" class="post-read-more">[Read More]</a>
 </div>
 
-<hr>
 {% endfor %}
