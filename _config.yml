@@ -158,7 +158,8 @@ page-col: "#FFFFFF"           # Clean white background
 text-col: "#2C3E50"           # Deep blue-gray for authority
 link-col: "#2E5C8A"           # Professional navy blue (trust)
 hover-col: "#1A3A52"          # Darker navy on hover
-navbar-col: "#F8F9FA"         # Subtle off-white
+# navbar-col: "#F8F9FA"         # Subtle off-white
+navbar-col: "#D6DFE8"         # Medium blue-gray (more substantial)
 navbar-text-col: "#2C3E50"    # Matching dark blue-gray
 navbar-border-col: "#E1E8ED"  # Soft gray-blue border
 footer-col: "#34495E"         # Solid dark blue-gray footer
