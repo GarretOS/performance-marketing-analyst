@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Case Studies
 subtitle: My portfolio of data analytics and marketing projects
 ---
 
