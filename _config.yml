@@ -9,6 +9,10 @@
 # --- Required options --- #
 ############################
 
+# URL of website
+url: "https://garretos.github.io"
+baseurl: "/performance-marketing-analyst"
+
 # Name of website
 title: Garret Sumagang
 
