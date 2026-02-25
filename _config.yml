@@ -27,9 +27,9 @@ author: Garret Sumagang
 ###############################################
 
 navbar-links:
-  Projects: "projects"
+  Case Studies: "case-studies"
   About: "aboutme"
-  Resume: "/assets/garret-sumagang-resume.pdf"
+  Experience: "experience"
   Contact: "contact"
 
 
