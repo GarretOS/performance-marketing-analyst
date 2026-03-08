@@ -11,7 +11,7 @@
 
 # URL of website
 url: "https://garretos.github.io"
-baseurl: "/performance-marketing-analyst"
+baseurl: "/amazon-ppc-analyst"
 
 # Name of website
 title: Garret Sumagang
@@ -286,7 +286,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Manila"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
