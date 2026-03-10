@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Performance Marketing Analyst | Amazon & Walmart Advertising Specialist
+subtitle: Amazon & Walmart Advertising Specialist
 ---
 
 Hi, I'm **Garret Sumagang**, a performance marketing analyst who helps eCommerce sellers turn advertising data into profitable growth.
