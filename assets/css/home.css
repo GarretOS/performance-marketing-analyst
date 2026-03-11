@@ -1,7 +1,7 @@
 /* assets/css/home.css */
 
 .home-wrapper {
-  padding: 0 1rem 4rem;
+  padding: 0 1rem 2rem;
 }
 
 /* HERO */
@@ -83,7 +83,13 @@
 }
 
 /* SECTIONS */
-.home-section { margin-bottom: 3.5rem; }
+.home-section {
+  margin-bottom: 3.5rem;
+}
+
+.home-section:last-child {
+  margin-bottom: 0;
+}
 
 .section-heading {
   padding-bottom: 0.5rem;
@@ -150,12 +156,14 @@
 .case-metrics {
   display: flex;
   gap: 1.5rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin-bottom: 1.5rem;
   padding: 1.25rem;
   background: #fff;
   border: 1px solid #e8e8e8;
   border-radius: 5px;
+  display: flex;
+  flex-direction: row;
 }
 
 .metric {
@@ -197,8 +205,24 @@
 }
 
 .testimonial-author {
-  color: #555;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: #666;
   margin-bottom: 0;
+}
+
+.testimonial-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.testimonial + .testimonial {
+  margin-top: 0;
+  border-top: 1px solid #e8e8e8;
 }
 
 /* FINAL CTA */
@@ -208,10 +232,14 @@
   background: #f8f9fa;
   border-radius: 8px;
   border: 1px solid #e8e8e8;
+  margin-bottom: 0;
 }
 
 /* RESPONSIVE */
 @media (max-width: 600px) {
   .services-grid { grid-template-columns: 1fr; }
   .case-metrics { flex-direction: column; gap: 1rem; }
+}
+.row {
+  padding-bottom: 0;
 }
