@@ -241,6 +241,17 @@
   .services-grid { grid-template-columns: 1fr; }
   .case-metrics { flex-direction: column; gap: 1rem; }
 }
+
 .row {
   padding-bottom: 0;
+}
+
+/* FEATURED RESULT TEXT CALLOUT */
+.insight-callout {
+  border-left: 3px solid #2c3e50;
+  padding: 0.75rem 1.25rem;
+  margin: 1.25rem 0;
+  font-style: italic;
+  color: #2c3e50;
+  background-color: #f8f9fa;
 }
