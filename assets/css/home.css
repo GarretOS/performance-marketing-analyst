@@ -242,6 +242,12 @@
   .case-metrics { flex-direction: column; gap: 1rem; }
 }
 
+@media (max-width: 768px) {
+  .page-heading {
+    font-size: 1.8rem;
+  }
+}
+
 .row {
   padding-bottom: 0;
 }
