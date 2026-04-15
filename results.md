@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Results
-subtitle: My portfolio of data analytics and marketing projects
+subtitle: "Client results backed by data, not promises."
 ---
 
 {% for post in site.posts %}
